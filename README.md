@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Maarten14C
 - 👀 I’m interested in palaeoecology and especially in chronology-building using radiocarbon or other types of dates.
-- 🌱 I’m currently learning how to use Rmd
 - 📫 You can reach me by mail: <m.blaauw@qub.ac.uk>
 
 <!---
